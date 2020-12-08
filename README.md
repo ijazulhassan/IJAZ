@@ -1,2 +1,2 @@
 # IJAZ
-outlet controlling through voice using python programming and raspberry pi  
+The main repository of the VCS
